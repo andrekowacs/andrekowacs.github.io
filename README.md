@@ -1,16 +1,14 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://s2.glbimg.com/0q1BSBxe7xt0_ODFtfLaPsivCtc=/850x446/s.glbimg.com/po/tt/f/original/2011/07/18/nyan_cat.png" alt="Logo" width=180 height=100>
+    <img src="https://s2.glbimg.com/0q1BSBxe7xt0_ODFtfLaPsivCtc=/850x446/s.glbimg.com/po/tt/f/original/2011/07/18/nyan_cat.png" alt="Logo" width=200 height=100>
   </a>
 
-  <h3 align="center">André Pedroso Kowacs</h3>
+  <h3 align="center">André Kowacs</h3>
 
   <p align="center">
     Random Millenial Description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <br>    
+
   </p>
 </p>
 
@@ -25,9 +23,12 @@
 
 ## Future Sugestions and contact
 
-Send me an email at andrekowacs@gmail.com.
+Please contact me at andrekowacs@gmail.com.
+
 
 ## Creators
+
+**André Pedroso Kowacs**
 
 - <https://github.com/andrekowacs>
 
