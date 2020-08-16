@@ -33,4 +33,3 @@ Send me an email at andrekowacs@gmail.com.
 
 ## Thanks
 
-Some Text
