@@ -37,9 +37,7 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 ## Creators
 
-**Creator 1**
-
-- <https://github.com/usernamecreator1>
+- <https://github.com/andrekowacs>
 
 ## Thanks
 
