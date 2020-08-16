@@ -17,8 +17,8 @@
 
 ## Themes
 
-- [Research](https://reponame/blob/master/editorconfig)
-- [Solved Exercises](#exercises)
+- [Research](https://github.com/andrekowacs/andrekowacs.github.io/research)
+- [Solved Exercises](https://github.com/andrekowacs/andrekowacs.github.io/solvedExercises)
 
 
 
