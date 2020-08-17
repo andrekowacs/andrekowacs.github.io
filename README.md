@@ -15,7 +15,7 @@
 
 ## Themes
 
-- [Research](https://github.com/andrekowacs/andrekowacs.github.io/research/Research.md)
+- [Research](https://github.com/andrekowacs/andrekowacs.github.io/wiki/Research)
 - [Solved Exercises](https://github.com/andrekowacs/andrekowacs.github.io/wiki/Solved-Exercises)
 
 
