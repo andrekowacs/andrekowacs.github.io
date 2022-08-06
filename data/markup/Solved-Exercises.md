@@ -1,6 +1,4 @@
-<p align="center">
-
-<img src="/data/res/foo.png" alt="kekw" style="height: 200px; width:200px;"/>
+![Delta](../delta_airlines.jpg)
 
   <h3 align="center">Solved Exercises</h3>
 
@@ -9,7 +7,6 @@
 
   </p>
 </p>
-
 
 ## Linear Algebra
 
@@ -22,7 +19,6 @@
 - [Lista 8 (Espaços com produto interno)](/data/solvedExercises/algebralinear/lista8-resol.pdf)
 - [Lista 9 (Formas bilineares)](/data/solvedExercises/algebralinear/lista9-resol.pdf)
 - [Lista 10 (Produto tensorial)](/data/solvedExercises/algebralinear/lista10-resol.pdf)
-
 
 ## Measure Theory and Lp spaces
 

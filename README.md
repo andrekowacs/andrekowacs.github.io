@@ -16,7 +16,7 @@
 ## Themes
 
 - [Research](/data/research/Research.md)
-- [Solved Exercises](Solved-Exercises.md)
+- [Solved Exercises](/data/markup/Solved-Exercises.md)
 
 
 

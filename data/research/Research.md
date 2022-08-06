@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://example.com/">
-    <img src=res/foo.png alt="Logo" width=200 height=200>
-  </a>
+![Delta](../delta_airlines.jpg)
 
   <h3 align="center">Research Papers</h3>
 
