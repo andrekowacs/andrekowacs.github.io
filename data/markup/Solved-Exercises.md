@@ -1,5 +1,4 @@
-![Delta](../foo.png)
-
+![Delta](../foo.png =200x200)
   <h3 align="center">Solved Exercises</h3>
 
   <p align="center">
