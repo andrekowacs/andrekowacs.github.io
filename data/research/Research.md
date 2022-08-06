@@ -1,4 +1,4 @@
-<img src="../foo.png" width="200" height="200" class="center">
+<img src="../foo.png" align="center" width="200" height="200">
 
   <h3 align="center">Research Papers</h3>
 
