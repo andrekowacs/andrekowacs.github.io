@@ -1,4 +1,4 @@
-![Delta](../delta_airlines.jpg)
+![Delta](../foo.png)
 
   <h3 align="center">Solved Exercises</h3>
 
