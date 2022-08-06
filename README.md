@@ -21,7 +21,7 @@
 
 
 
-## Future Sugestions and contact
+## Future Suggestions and contact
 
 Please contact me at andrekowacs@gmail.com.
 
