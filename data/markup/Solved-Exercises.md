@@ -1,4 +1,4 @@
-![Delta](../foo.png =200x200)
+<img src="../foo.png" width="200" height="200" class="center">
   <h3 align="center">Solved Exercises</h3>
 
   <p align="center">

@@ -1,4 +1,4 @@
-![Delta](../foo.png =50x50)
+<img src="../foo.png" width="200" height="200" class="center">
 
   <h3 align="center">Research Papers</h3>
 
