@@ -1,4 +1,4 @@
-<img src="../foo.png"  align="center" width="200" height="200">
+<img src="../foo.png" align="center" width="200" height="200">
   <h3 align="center">Solved Exercises</h3>
 
   <p align="center">
@@ -21,4 +21,5 @@
 
 ## Measure Theory and Lp spaces
 
--[The Elements of Integration and Lebesgue Measure, ROBERT G. BARTLE, Chapter 4](/data/solvedExercises/Bartle/Bartle_exerci%CC%81cios_capi%CC%81tulo_4.pdf)
+-[The Elements of Integration and Lebesgue Measure, ROBERT G. BARTLE, Chapter 4](/data/solvedExercises/Bartle/Bartle_exerci%CC%81cios_capi%CC%81tulo_4.pdf)  
+-[The Elements of Integration and Lebesgue Measure, ROBERT G. BARTLE, Chapter 5](/data/solvedExercises/Bartle/Bartle_exerci%CC%81cios_capi%CC%81tulo_5.pdf)
