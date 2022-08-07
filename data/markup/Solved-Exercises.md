@@ -25,4 +25,5 @@
 -[The Elements of Integration and Lebesgue Measure, ROBERT G. BARTLE, Chapter 5](/data/solvedExercises/Bartle/Bartle_exerci%CC%81cios_capi%CC%81tulo_5.pdf)  
 -[The Elements of Integration and Lebesgue Measure, ROBERT G. BARTLE, Chapter 6](/data/solvedExercises/Bartle/Bartle_exerci%CC%81cios_capi%CC%81tulo_6.pdf)  
 -[Real Analysis, GERALD B. FOLLAND, Chapter 2](../solvedExercises/Folland/Folland_exerci%CC%81cios_capi%CC%81tulo_2.pdf)  
--[Real Analysis, GERALD B. FOLLAND, Chapter 4](../solvedExercises/Folland/Folland_exerci%CC%81cios_capi%CC%81tulo_6.pdf)
+-[Real Analysis, GERALD B. FOLLAND, Chapter 4](../solvedExercises/Folland/Folland_exerci%CC%81cios_capi%CC%81tulo_6.pdf)  
+-[Functional Analysis, Sobolev Spaces and Partial Differential Equations, HAIM BREZIS, Chapter 4](../solvedExercises/Brezis/Brezis_exerci%CC%81cios_capi%CC%81tulo_4.pdf)
