@@ -1,14 +1,13 @@
-<img src="../foo.png" align="center" width="200" height="200">
+<img src="../delta_arilines.png" align="center" width="200" height="200">
 
   <h3 align="center">Research Papers</h3>
 
   <p align="center">
     Interests and Themes
-    </p align="center">
+  </p>
+  <p align="center">
     Discrete dynamical systems, Ergodic Theory
    </p>
-  </p>
-</p>
 
 
 ## Papers
