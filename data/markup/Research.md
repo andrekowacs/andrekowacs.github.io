@@ -15,5 +15,6 @@
 - [Introduction to Julia Sets](https://docs.ufpr.br/~ewkaras/ic/AndreKowacs2018.pdf)
 - [Studies on the Pea Pattern Sequence ](https://arxiv.org/abs/1708.06452)
 - [Grupos de Lie](artigos/main.pdf)
+- [Exponential Taylor Series](https://arxiv.org/abs/2212.03171)
 
 
