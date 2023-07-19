@@ -1,4 +1,4 @@
-<img src="../delta_arilines.jpg" align="center" width="200" height="200">
+<img src="../delta_airlines.jpg" align="center" width="200" height="200">
 
   <h3 align="center">Research Papers</h3>
 
