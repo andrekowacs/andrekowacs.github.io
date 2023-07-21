@@ -6,7 +6,7 @@
     Interests and Themes
   </p>
   <p align="center">
-    Discrete dynamical systems, Ergodic Theory
+    Harmonic Analysis, Partial Differential Equations, Lie groups
    </p>
 
 
