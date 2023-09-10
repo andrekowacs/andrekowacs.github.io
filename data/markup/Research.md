@@ -18,5 +18,6 @@
 - [Exponential Taylor Series](https://arxiv.org/abs/2212.03171)
 - [Global solvability and hypoellipticity for evolution operators on tori and spheres](https://arxiv.org/abs/2306.15583)
 - [Fourier Analysis on T^m×R^n and Applications to Global Hypoellipticity](https://arxiv.org/abs/2306.15578)
+- [Schwartz regularity of differential operators on the cylinder](https://arxiv.org/abs/2307.12819)
 
 
